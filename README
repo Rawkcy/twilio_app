@@ -1,0 +1,9 @@
+Replace pay phones with wifi enabled phones/calling stations by logging in?
+
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python app.py
+
+http://localhost:5000
+enter twilio informations and make call
